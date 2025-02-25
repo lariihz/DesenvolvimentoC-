@@ -1,0 +1,2 @@
+SELECT sum(quantity) as &#39;soma de quantity&#39;
+FROM OrderDetails;
